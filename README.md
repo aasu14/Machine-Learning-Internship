@@ -1,6 +1,6 @@
 # Software & Training Partner
 ![title](intel.png)
-## certi
+## Certificate
 ![title](certi.png)
 
 ## Endorsed by
