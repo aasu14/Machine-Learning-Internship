@@ -1,8 +1,9 @@
 # Software & Training Partner
 ![title](intel.png)
+## certi
 ![title](certi.png)
 
-# Endorsed by
+## Endorsed by
 ![title](aicte.jpg)
 
 
