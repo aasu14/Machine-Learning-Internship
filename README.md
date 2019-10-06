@@ -1,4 +1,4 @@
-![title](certi.jpg)
+![title](certi.png)
 
 # Machine-Learning-Internship
 AICTE endorsed Machine Learning Internship. 
